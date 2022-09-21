@@ -6,4 +6,4 @@
 
 #I'm currently studying English with online classes and German face-to-face classes.
 
-#I like ice-cream and apples
+#I like :icecream: and :apple:
